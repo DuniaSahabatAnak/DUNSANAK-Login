@@ -34,7 +34,8 @@ const showHiddenPass = (password, inputIcon) =>{
      { email: "ppg.yoggabristone97@program.belajar.id", password: "ayocegahbullying" },
      { email: "yosiyulidawati67@guru.sd.belajar.id", password: "ayocegahbullying" },
      { email: "opilasudirman40@guru.smp.belajar.id", password: "ayocegahbullying" },
-     { email: "dewianggraini81@admin.smp.belajar.id", password: "ayocegahbullying" }
+     { email: "dewianggraini81@admin.smp.belajar.id", password: "ayocegahbullying" },
+     { email: "Anwarqdyt@gmail.com", password: "ayocegahbullying" }
  ];
  
  document.getElementById('loginForm').addEventListener('submit', function(event) {
